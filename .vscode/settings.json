@@ -1,0 +1,14 @@
+{
+  "cmake.generator": "Ninja",
+  "cmake.configureOnOpen": true,
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+
+  "C_Cpp.default.compilerPath": "${workspaceFolder}/../toolchain/mingw64/bin/g++.exe",
+  "C_Cpp.default.compileCommands": "${workspaceFolder}/build/compile_commands.json",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+
+  "plantuml.render": "Local",
+  "plantuml.server": "",
+  "plantuml.jar": "${workspaceFolder}/../uml/plantuml.jar",
+  "plantuml.exportFormat": "png"
+}

@@ -1,0 +1,3 @@
+C:/Users/Schule/Documents/Test/Schul-IDE/Schul-IDE/Projekt-1/build/CMakeFiles/app.dir
+C:/Users/Schule/Documents/Test/Schul-IDE/Schul-IDE/Projekt-1/build/CMakeFiles/edit_cache.dir
+C:/Users/Schule/Documents/Test/Schul-IDE/Schul-IDE/Projekt-1/build/CMakeFiles/rebuild_cache.dir

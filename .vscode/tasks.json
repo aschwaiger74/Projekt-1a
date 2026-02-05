@@ -1,0 +1,30 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Configure (CMake)",
+      "type": "shell",
+      "command": "cmake -S . -B build -G Ninja -DCMAKE_CXX_COMPILER=g++",
+      "problemMatcher": []
+    },
+    {
+      "label": "Build (CMake)",
+      "type": "shell",
+      "command": "cmake --build build",
+      "dependsOn": "Configure (CMake)",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    },
+    {
+      "label": "Run (CMake)",
+      "type": "shell",
+      "command": "build\\app.exe",
+      "dependsOn": "Build (CMake)",
+      "problemMatcher": [],
+      "group": "test"
+    }
+  ]
+}

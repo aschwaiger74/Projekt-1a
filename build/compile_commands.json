@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Schule/Documents/Test/Schul-IDE/Schul-IDE/Projekt-1/build",
+  "command": "C:\\Users\\Schule\\Downloads\\Schul-IDE\\toolchain\\mingw64\\bin\\g++.exe -isystem C:/Users/Schule/Documents/Test/Schul-IDE/Schul-IDE/libs/SFML-3.0.2/include -g -std=gnu++17 -o CMakeFiles\\app.dir\\src\\main.cpp.obj -c C:\\Users\\Schule\\Documents\\Test\\Schul-IDE\\Schul-IDE\\Projekt-1\\src\\main.cpp",
+  "file": "C:\\Users\\Schule\\Documents\\Test\\Schul-IDE\\Schul-IDE\\Projekt-1\\src\\main.cpp",
+  "output": "CMakeFiles\\app.dir\\src\\main.cpp.obj"
+}
+]
