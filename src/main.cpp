@@ -5,7 +5,7 @@ int main()
 {
     sf::RenderWindow window(
         sf::VideoMode(sf::Vector2u(800, 600)),
-        "Projekt-1"
+        "Projekt-2"
     );
 
     while (window.isOpen())
